@@ -1,0 +1,19 @@
+File Uploading
+
+  Client ---> FILE --- Server
+  File 
+    ->
+      1.Photo Uploading
+      2. pdf
+      3. mp3
+      4. Video
+for file uploading 
+  1. method must be POST
+  2. must have enctpye="multipart/form-data" attribute
+  3. Form must have input type = file
+
+$_POST = Super globle varible
+HTML tag
+ pre formated tag
+  <pre></pre>
+  ./ = > Current Folder
